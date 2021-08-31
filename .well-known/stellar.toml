@@ -1,0 +1,3 @@
+VERSION="2.1.0"
+
+FEDERATION_SERVER="https://sqb-federation-server.vercel.app/api/federation/"
