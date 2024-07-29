@@ -2,5 +2,5 @@
 
 I'm working on:
 
- - [dynapik.com](dynapik.com)
- - [sheetson.com](sheetson.com)
+ - [dynapik.com - Internet's AOI Media Magic Tool](dynapik.com)
+ - [sheetson.com - Easy Google Sheets API](sheetson.com)
